@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+.Spotlight-V100
+.Trashes
+._*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+
+# Build output
+/build/
+/dist/
+/out/
+/.cache/
+/.tmp/
+/.temp/
+/coverage/
+
+# Static site/cloud platforms
+/.next/
+/.vercel/
+/.netlify/
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sass cache
+.sass-cache/
+
+# Package manager artifacts
+.pnp.*
+
+# Archives
+*.tgz
+*.gz
